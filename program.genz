@@ -1,0 +1,11 @@
+wassup
+tea square(x):
+    drop result = x * x;
+    spill result;
+dead
+drop num = 5;
+spill "Square of ";
+spill num;
+spill " is:";
+slideIn square(num);
+rip
