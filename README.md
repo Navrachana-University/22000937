@@ -6,10 +6,10 @@ Name: Vanshi Mehta
 Roll Number: 22000937
 
 # GenZ Lang Compiler
-# Project Description
+Project Description
 This project is a custom compiler for a fictional programming language called **GenZ Lang**, designed with Gen-Z-inspired syntax. The compiler is built using **Flex** (Lexical Analyzer) and **Bison** (Parser Generator), and it processes GenZ-styled code to generate **Three-Address Code (TAC)** for intermediate representation.
 
-# Language Keywords
+Language Keywords
 | Keyword      | Purpose                           |
 |--------------|-----------------------------------|
 | `wassup`     | Start of program                  |
@@ -24,13 +24,13 @@ This project is a custom compiler for a fictional programming language called **
 | `slideIn`    | Function call                     |
 | `#realtalk`  | Comment (ignored by compiler)     |
 
-# Tools & Technologies Used
+Tools & Technologies Used
 - Flex: For tokenizing the input source code (genz_flex.l)
 - Bison: For parsing and generating intermediate code (genz_bison.y)
 - GCC: To compile the generated C files
 - Three-Address Code (TAC): As intermediate output
 
-# Project Structure
+Project Structure
 | File Name            | Description                            |
 |----------------------|----------------------------------------|
 | `genz_flex.l`        | Flex file for lexical analysis         |
