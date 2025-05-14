@@ -10,6 +10,7 @@ GenZ Lang is a custom-designed programming language inspired by Gen-Z culture, f
 <h1>Key Features:</h1>
 •⁠  ⁠<b>Custom Keywords:</b> Uses Gen-Z-inspired keywords such as <code>wassup</code>, <code>rip</code>, <code>drop</code>, <code>spill</code>, <code>fr</code>, <code>nah</code>, <code>grind</code>, <code>tea</code>, <code>slideIn</code>, and <code>#realtalk</code>.<br>
 
+
 •⁠  ⁠<b>Basic Constructs Supported:</b><br>
     &nbsp;&nbsp;&nbsp;&nbsp;o Variable declarations and assignments (<code>drop</code>).<br>
     &nbsp;&nbsp;&nbsp;&nbsp;o Output printing (<code>spill</code>).<br>
