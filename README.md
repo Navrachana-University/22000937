@@ -9,8 +9,6 @@ GenZ Lang is a custom-designed programming language inspired by Gen-Z culture, f
 
 <h1>Key Features:</h1>
 •⁠  ⁠<b>Custom Keywords:</b> Uses Gen-Z-inspired keywords such as <code>wassup</code>, <code>rip</code>, <code>drop</code>, <code>spill</code>, <code>fr</code>, <code>nah</code>, <code>grind</code>, <code>tea</code>, <code>slideIn</code>, and <code>#realtalk</code>.<br>
-
-
 •⁠  ⁠<b>Basic Constructs Supported:</b><br>
     &nbsp;&nbsp;&nbsp;&nbsp;o Variable declarations and assignments (<code>drop</code>).<br>
     &nbsp;&nbsp;&nbsp;&nbsp;o Output printing (<code>spill</code>).<br>
@@ -18,7 +16,6 @@ GenZ Lang is a custom-designed programming language inspired by Gen-Z culture, f
     &nbsp;&nbsp;&nbsp;&nbsp;o Looping constructs (<code>grind</code>).<br>
     &nbsp;&nbsp;&nbsp;&nbsp;o Function definition and calling (<code>tea</code>, <code>slideIn</code>).<br>
     &nbsp;&nbsp;&nbsp;&nbsp;o Program start and end keywords (<code>wassup</code>, <code>rip</code>).<br>
-    
 •⁠  ⁠<b>Simple Syntax and Semantics:</b><br>
     &nbsp;&nbsp;&nbsp;&nbsp;o Supports integer variables, string printing, and basic control flows.<br>
     &nbsp;&nbsp;&nbsp;&nbsp;o Comments using <code>#realtalk</code>.<br>
@@ -41,7 +38,6 @@ GenZ Lang is a custom-designed programming language inspired by Gen-Z culture, f
 The project successfully compiles GenZ Lang code into Three-Address Code, providing a functional demonstration of lexical analysis, parsing, and intermediate code generation.
 
 <h1>Commands to Run Lex & YACC Program</h1>
-<code>
 bison -d genz_bison.y<br>
 flex genz_flex.l<br>
 gcc lex.yy.c genz_bison.tab.c<br>
